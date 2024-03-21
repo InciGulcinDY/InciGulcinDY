@@ -5,9 +5,9 @@
 ###
 
 <div align="center">  
-<a href="https://linkedin.com/in/i̇nci gülçin durak yolcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇nci gülçin durak yolcu" height="40" width="40" /></a>
-<a href="https://instagram.com/coding_with_inci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_inci" height="40" width="40" /></a>
-<a href="https://medium.com/@i̇nci gülçin durak yolcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i̇nci gülçin durak yolcu" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/inci-g%C3%BCl%C3%A7in-durak-yolcu-b1388761/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i̇nci gülçin durak yolcu" height="40" width="40" /></a>
+<a href="https://www.instagram.com/coding_with_inci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_inci" height="40" width="40" /></a>
+<a href="https://medium.com/@incigulcindurak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i̇nci gülçin durak yolcu" height="40" width="40" /></a>
 <a href="https://gist.github.com/InciGulcinDY" target="blank"><img align="center" src="https://github.com/InciGulcinDY/InciGulcinDY/assets/113159986/bb974f5c-b58e-426b-8c86-970f04a638d5" height="40" width="40" /></a>
 </div>
 
