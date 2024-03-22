@@ -1,6 +1,6 @@
 ###
 <h1 align="center">  Hi! 👋, I'm İnci</h1>
-<h5 align="center">🚀Transitioning from 🛫Aircraft Maintenance Engineer to Full Stack Development🛬, I bring a wealth of diverse experience and a commitment to continuous learning. With a focus on effective collaboration and user-friendly solutions, I aim to contribute positively to projects while honing my technical skills.</h5>
+<h4 align="left">🚀Transitioning from 🛫Aircraft Maintenance Engineer to Full Stack Development🛬, I bring diverse experience and a commitment to continuous learning. Focusing on effective collaboration and user-friendly solutions, I aim to contribute positively to projects while honing my technical skills.</h4>
 
 ###
 
