@@ -60,6 +60,9 @@
       <li>
         <a href="https://github.com/InciGulcinDY/YafuAcademyBackend" target="_blank" rel="noreferrer"> <p>YAFU Academy Web Application Backend Project | Java Spring Boot Project</p> </a>
       </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/Codecademy-Java-Labs/tree/main" target="_blank" rel="noreferrer"> <p>Codeacademy | Java Labs </p> </a>
+      </li>
     </ul>
   </p>
 </div>
