@@ -63,6 +63,9 @@
       <li>
         <a href="https://github.com/InciGulcinDY/Codecademy-Java-Labs/tree/main" target="_blank" rel="noreferrer"> <p>Codeacademy | Java Labs </p> </a>
       </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/Codecademy-React-Labs" target="_blank" rel="noreferrer"> <p>Codeacademy | React Labs </p> </a>
+      </li>
     </ul>
   </p>
 </div>
