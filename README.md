@@ -61,10 +61,10 @@
         <a href="https://github.com/InciGulcinDY/YafuAcademyBackend" target="_blank" rel="noreferrer"> <p>YAFU Academy Web Application Backend Project | Java Spring Boot Project</p> </a>
       </li>
       <li>
-        <a href="https://github.com/InciGulcinDY/Codecademy-Java-Labs/tree/main" target="_blank" rel="noreferrer"> <p>Codeacademy | Java Labs </p> </a>
+        <a href="https://github.com/InciGulcinDY/ChatterBoxBackend" target="_blank" rel="noreferrer"> <p>ChatterBoxBackend | Java Spring Boot Project </p> </a>
       </li>
       <li>
-        <a href="https://github.com/InciGulcinDY/Codecademy-React-Labs" target="_blank" rel="noreferrer"> <p>Codeacademy | React Labs </p> </a>
+        <a href="https://github.com/InciGulcinDY/ChatterBoxFrontend" target="_blank" rel="noreferrer"> <p>ChatterBoxFrontend | React Typescript Project </p> </a>
       </li>
     </ul>
   </p>
