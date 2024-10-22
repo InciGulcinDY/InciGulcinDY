@@ -40,7 +40,7 @@
 
 <div align="left">
   <p align="left"> 
-    <h4>I participated in the following projects as a collaborator:</h4>
+    <h4>Team-Based Projects:</h4>
     <ul>
       <li>
         <a href="https://github.com/InciGulcinDY/Rent-A-Car" target="_blank" rel="noreferrer"> <p>Rent-A-Car Web Application Backend Project | Java Spring Boot Project</p> </a>
@@ -49,7 +49,7 @@
         <a href="https://github.com/InciGulcinDY/project-rbride" target="_blank" rel="noreferrer"> <p>RoboRide Rental Services | Rent-A-Car Web Application</p> </a>
       </li>
     </ul>
-    <h4>I am currently working on the following projects:</h4>
+    <h4>My Self-Developed Projects: </h4>
   <ul>
       <li>
         <a href="https://github.com/InciGulcinDY/PageByPageBookStoreApp-backend" target="_blank" rel="noreferrer"> <p>PagebyPage Book Store Web Application Backend Project | Java Spring Boot Project</p> </a>
@@ -65,6 +65,36 @@
       </li>
       <li>
         <a href="https://github.com/InciGulcinDY/ChatterBoxFrontend" target="_blank" rel="noreferrer"> <p>ChatterBoxFrontend | React Typescript Project </p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/asianKitchen" target="_blank" rel="noreferrer"> <p>Asian Kitchen | Javascript Project </p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/taskMaster" target="_blank" rel="noreferrer"> <p>Task Master | Javascript Project </p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/calculator" target="_blank" rel="noreferrer"> <p>Calculator | Javascript Project </p> </a>
+      </li>
+    </ul>
+  <h4>Algorithm Challenges: </h4>
+    <ul>
+      <li>
+        <a href="https://github.com/InciGulcinDY/Algorithms" target="_blank" rel="noreferrer"> <p>Algorithm Practice Repository | Java </p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/JavascriptAlgorithms" target="_blank" rel="noreferrer"> <p>Algorithm Practice Repository | Javascript</p> </a>
+      </li>
+    </ul>
+  <h4>Study Notes and Code Snippets: </h4>
+      <ul>
+      <li>
+        <a href="https://github.com/InciGulcinDY/SQL-Queries-for-the-Northwind-Database" target="_blank" rel="noreferrer"> <p>SQL Queries for the Northwind Database | SQL </p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/Codecademy-React-Labs" target="_blank" rel="noreferrer"> <p>Codecademy Labs | React Javascript</p> </a>
+      </li>
+      <li>
+        <a href="https://github.com/InciGulcinDY/Codecademy-Java-Labs" target="_blank" rel="noreferrer"> <p>Codecademy Labs | Java</p> </a>
       </li>
     </ul>
   </p>
