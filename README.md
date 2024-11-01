@@ -10,6 +10,7 @@
   <a href="https://medium.com/@incigulcindurak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i̇nci gülçin durak yolcu" height="30" width="auto" /></a> &nbsp;&nbsp;
   <a href="https://gist.github.com/InciGulcinDY" target="blank"><img align="center" src="https://github.com/InciGulcinDY/InciGulcinDY/assets/113159986/bb974f5c-b58e-426b-8c86-970f04a638d5" height="30" width="auto" /></a> &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/incigulcindurak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" height="30" width="auto" /></a> &nbsp;&nbsp;
+  <a href="https://www.w3profile.com/inci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/512px-W3Schools_logo.svg.png" height="30" width="auto" /></a> &nbsp;&nbsp;
 </div> 
 
 ###
