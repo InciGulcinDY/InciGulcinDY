@@ -51,7 +51,13 @@
         <a href="https://github.com/InciGulcinDY/project-rbride" target="_blank" rel="noreferrer"> <p>RoboRide Rental Services | Rent-A-Car Web Application</p> </a>
       </li>
     </ul>
-    <h4>My Self-Developed Projects: </h4>
+  <h4>Deployed Projects: </h4>
+    <ul>
+      <li>
+        <a href="https://www.taskmasterdesign.com/" target="_blank" rel="noreferrer"> <p>🖋️Task Master Design</p> </a>
+      </li>
+    </ul>
+  <h4>My Self-Developed Projects: </h4>
   <ul>
       <li>
         <a href="https://github.com/InciGulcinDY/PageByPageBookStoreApp-backend" target="_blank" rel="noreferrer"> <p>PagebyPage Book Store Web Application Backend Project | Java Spring Boot Project</p> </a>
